@@ -37,6 +37,7 @@ public class SwingProgressBarExample extends JPanel {
 		// run a loop to demonstrate raising
 		for (int i = MY_MINIMUM; i <= MY_MAXIMUM; i++) {
 			final int percent = i;
+			//try and catch
 			try {
 				SwingUtilities.invokeLater(new Runnable() {
 					public void run() {
