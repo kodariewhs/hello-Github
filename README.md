@@ -47,6 +47,7 @@ public class SwingProgressBarExample extends JPanel {
 			} catch (InterruptedException e) {
 				;
 			}
+			System.our.println ("done")
 		}
 	}
 }
