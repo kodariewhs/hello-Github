@@ -17,7 +17,7 @@ public class SwingProgressBarExample extends JPanel {
 	static final int MY_MAXIMUM = 100;
 	public SwingProgressBarExample() {
 
-
+//the example start
 		pbar = new JProgressBar();
 		pbar.setMinimum(MY_MINIMUM);
 		pbar.setMaximum(MY_MAXIMUM);
