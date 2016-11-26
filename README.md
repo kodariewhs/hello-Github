@@ -50,3 +50,5 @@ public class SwingProgressBarExample extends JPanel {
 		}
 	}
 }
+
+//it could work nicely 
